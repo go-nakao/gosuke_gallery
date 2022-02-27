@@ -3,3 +3,6 @@
 ## ナビゲーションバーの作成
 ### https://getbootstrap.com/docs/5.0/components/navbar/
 #### shadow-smの記述で、Small shadowをつける。https://getbootstrap.jp/docs/5.0/utilities/shadows/
+
+## Bootstrap Icons
+### https://icons.getbootstrap.com/
