@@ -3,3 +3,7 @@
   background-size: cover;
   background-position: 50% 51%;
 }
+
+body {
+  font-family: var(--bs-font-sans-serif);
+}
